@@ -10,9 +10,11 @@
 
 （如果访问YouTube出现需要登录账号才能观看视频，也可以用此方法来解决）
 
-解锁后，访问Gemini并提问，测试服务器为[vultr](https://www.vultr.com/?ref=7048874)洛杉矶服务器。
+解锁后，访问Gemini
 
 ![](https://cdn.jsdelivr.net/gh/Alvin9999-newpac/pac2/softimag/gemini1.png)
+
+测试服务器为[vultr](https://www.vultr.com/?ref=7048874)洛杉矶服务器
 
 ***
 
